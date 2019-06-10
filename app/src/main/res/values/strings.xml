@@ -5,4 +5,5 @@
     <string name="search_pos">Search</string>
     <string name="search_neg">Cancel</string>
     <string name="search_title">Search on Bilibili.com</string>
+    <string name="content_receiver_demo">Content Receiver</string>
 </resources>
